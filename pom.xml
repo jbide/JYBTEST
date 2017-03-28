@@ -46,6 +46,13 @@
                 <hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
                 <versionTagPrefix>blither-</versionTagPrefix>
               </flowInitContext>
+              <!--pushReleases>true</pushReleases>
+              <keepBranch>false</keepBranch>
+              <autoVersionSubmodules>true</autoVersionSubmodules>
+              <noTag>true</noTag>
+              <allowUntracked>true</allowUntracked>
+              <pullDevelop>true</pullDevelop>
+              <pullMaster>true</pullMaster-->
               <noDeploy>true</noDeploy>
               <squash>false</squash>
               <scmCommentPrefix>[RELEASE] </scmCommentPrefix>
